@@ -1,0 +1,5 @@
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x0000469c (most recent call first):
+  File "D:\Cmax\cronos_pre_tester\main.py", line 74 in main
+  File "D:\Cmax\cronos_pre_tester\main.py", line 80 in <module>

@@ -1,0 +1,51 @@
+A _on_step_stop start
+B _step_running = False
+C _step_worker_busy = False
+D timer stopped, _step_worker=None
+I btn updates
+J btn_step_start done
+K btn_step_stop done
+L btn_rand_start done
+M src_idx_label done
+N win_size_label done
+O log_mgr.info done
+P close_reqs count=1
+Q creating ProtoWorker
+R ProtoWorker created
+S connected sig_finished
+T w.start() done
+U _on_step_stop complete
+A _on_step_stop start
+B _step_running = False
+C _step_worker_busy = False
+D timer stopped, _step_worker=None
+I btn updates
+J btn_step_start done
+K btn_step_stop done
+L btn_rand_start done
+M src_idx_label done
+N win_size_label done
+O log_mgr.info done
+P close_reqs count=1
+Q creating ProtoWorker
+R ProtoWorker created
+S connected sig_finished
+T w.start() done
+U _on_step_stop complete
+A _on_step_stop start
+B _step_running = False
+C _step_worker_busy = False
+D timer stopped, _step_worker=None
+I btn updates
+J btn_step_start done
+K btn_step_stop done
+L btn_rand_start done
+M src_idx_label done
+N win_size_label done
+O log_mgr.info done
+P close_reqs count=1
+Q creating ProtoWorker
+R ProtoWorker created
+S connected sig_finished
+T w.start() done
+U _on_step_stop complete

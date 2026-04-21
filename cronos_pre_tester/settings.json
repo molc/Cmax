@@ -1,0 +1,19 @@
+{
+  "rand_count": 5,
+  "rand_w_max": 7680,
+  "rand_h_max": 4320,
+  "rand_dwell": 2000,
+  "rand_interval": 500,
+  "step_w": 500,
+  "step_h": 500,
+  "step_w_step": 10,
+  "step_h_step": 10,
+  "step_dwell": 1000,
+  "step_interval": 500,
+  "start_x": 0,
+  "start_y": 0,
+  "src_range": "31",
+  "checked_groups": [
+    "0"
+  ]
+}

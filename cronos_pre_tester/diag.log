@@ -1,0 +1,4 @@
+[20200] recv_until(80843) start
+[20200] recv msg proto=80843 status=200 len=195
+[20200] MATCH! returning response
+[20200] proto=80843 status=200 body_len=195 body='<?xml version="1.0" encoding="utf-8"?> <Response> <BkList freeSpace="135168"> <Bk id="1" name="15'
